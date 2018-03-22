@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huan / Something About Me"
 title_separator          : "-"
 name                     : &name "Huan Zhou"
-description              : &description "PhD student of CS\nUniversity of Amsterdam"
+description              : &description "PhD student of CS<br />University of Amsterdam"
 url                      : https://zh9314.github.io 
 baseurl                  : "" 
 repository               : "zh9314/zh9314.github.io"
