@@ -50,13 +50,12 @@ Technical Skills
 
 Contact
 ======
-:email:    Email: h.zhou@uva.nl
+:email: Email: h.zhou@uva.nl
 
-:office:    Office: 
-        
-        C3.202
-        Science park 904, 1098XH Amsterdam
-        the Netherlands
+:office: Office: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C3.202 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science park 904, 1098XH Amsterdam <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Netherlands
 
 
 
