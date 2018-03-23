@@ -48,6 +48,13 @@ Technical Skills
 * Web crawler
 * Eager to learn
 
+Contact
+======
+Email: h.zhou@uva.nl
+Office: 
+	C3.202
+	Science park 904, 1098XH Amsterdam
+	the Netherlands
 
 
 
