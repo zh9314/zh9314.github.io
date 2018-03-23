@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huan / Something About Me"
+title                    : "Huan / About Me"
 title_separator          : "-"
 name                     : &name "Huan Zhou"
 description              : &description "PhD student of CS<br />University of Amsterdam"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Huan Zhou"
   avatar           : "profile.JPG"
-  bio              : "PhD student of CS<br />University of Amsterdam"
+  bio              : "PhD student of CS<br />, University of Amsterdam"
   location         : "Amsterdam, Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.nl/citations?user=MPCBlq4AAAAJ&hl=en"
