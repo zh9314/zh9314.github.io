@@ -44,7 +44,9 @@ Technical Skills
 	* iperf
 * Kernel 
 	* Netfilter
-	* File systems: FAT32, NTFS.
+	* File systems: FAT32, NTFS
+* Data processing
+	* Hadoop
 * Web crawler
 * Eager to learn
 
@@ -53,9 +55,9 @@ Contact
 :email: Email: h.zhou@uva.nl
 
 :office: Office: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C3.202 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science park 904, 1098XH Amsterdam <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Netherlands
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C3.202 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science park 904, 1098XH Amsterdam <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Netherlands
 
 
 
