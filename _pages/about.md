@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<br>
 Currently, I am a PhD student at [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute, University of Amsterdam. My promoter is [Prof. Cees de Laat](http://delaat.net/) and my supervisor is [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). I am founded by China Scholarship Council (CSC). My current research area is cloud computing and network communications. I am specifically working on smart provisioning and dynamic control for Cloud applications on their virtual infrastructure resources.  
-
+<br>
 
 Education
 ======

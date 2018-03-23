@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huan / About Me"
+title                    : "周寰 / About Me"
 title_separator          : "-"
 name                     : &name "Huan Zhou"
 description              : &description "PhD student of CS<br />University of Amsterdam"
@@ -181,9 +181,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,13 +236,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
       author_profile: true
       share: true
 
