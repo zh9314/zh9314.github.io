@@ -7,6 +7,8 @@ redirect_from:
   - /project
 ---
 
+{% include base_path %}
+
 Education
 ======
 * B.S. in Github, Github University, 2012
