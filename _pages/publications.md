@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal
+Journals
 ======
 - Xiaofeng Wang, **Huan Zhou**, Jinshu Su, Baosheng Wang, Qianqian Xing, Pengkun Li. T-IP: A Self-Trustworthy and Secure Internet Protocol\[J\], _China Communications_, 2018, Vol. 15 No.2, pp 1-14.
 
@@ -18,7 +18,7 @@ Journal
 - Xue Ouyang, **Huan Zhou**, et al. Design and implementation of a software life cycle oriented authorization and protection system\[J\]. _The Journal of Computer Engineering and Science_. 2013, 35(4):59-64. (in Chinese)
 
 
-Conference
+Conferences
 ======
 - **Huan Zhou**, Cees de Laat, Zhiming Zhao. Cloudsstorm: An Application-driven Devops Framework for Managing Networked Infrastructures on Federated Clouds\[C\]. _The 3rd International workshop on Interoperable infrastructures for interdisciplinary big data sciences (IT4RIs 18)_. Jan 2018, Amsterdam, the Netherlands.
 
