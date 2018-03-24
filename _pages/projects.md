@@ -7,6 +7,4 @@ redirect_from:
   - /project
 ---
 
-{% include base_path %}
-
 TBD
