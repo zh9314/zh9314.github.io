@@ -7,7 +7,7 @@ redirect_from:
   - /project
 ---
 
-[SWITCH}(http://www.switchproject.eu/, "EU H2020 project")
+[SWITCH](http://www.switchproject.eu/, "EU H2020 project")
 ======
 - Full name: Software Workbench for Interactive, Time Critical and Highly self-adaptive Cloud applications
 - European H2020 project
