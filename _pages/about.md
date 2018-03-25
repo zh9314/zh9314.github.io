@@ -40,16 +40,20 @@ Technical Skills
 	* Java
 	* C, C++, C#
 	* Python
+	* Distributed and multi thread programming
 * Network Configuration and Measurement
 	* iptables
-	* iperf
+	* iperf 
+	* ...
 * Kernel 
 	* Netfilter
 	* File systems: FAT32, NTFS
+	* ...
 * Data processing
 	* Hadoop
+	* ...
 * Web crawler
-* Eager to learn
+* Happy to learn
 
 Contact
 ======

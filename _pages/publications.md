@@ -54,6 +54,9 @@ Posters
 
 - Peixin Chen, Xiaofeng Wang, Yilun Wu, Jinshu Su, **Huan Zhou**. iPKI Identity-based Private Key Infrastructure for Securing BGP Protocol\[C\]. _22nd ACM Conference on Computer and Communications Security (CCS)_. Nov 2015, Denver, Colorado, US.
 
+Thesis
+======
+- Huan Zhou. Research and Implementation on Self-trustworthy and Lightweight Network Transport Mechanism. Nov 2014, Changsha, China. (in Chinese)
 
 
 
