@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Haha"
+title: "Haha~"
 permalink: /life/
 author_profile: true
 redirect_from:
