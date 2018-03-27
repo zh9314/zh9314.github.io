@@ -8,25 +8,26 @@ redirect_from:
 ---
 
 <div id="loginbox" class="lightbox" >
-		<div class="horizontal">
-			<div class="vertical">
-				<div class="box">				
-					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
-					<button id="loginbutton" type="button">Enter</button>
-					<p id="wrongPassword" style="display: none">wrong password</p>
-				</div>
-			</div>
-		</div>
+<div class="horizontal">
+<div class="vertical">
+<div class="box">				
+	<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
+	<button id="loginbutton" type="button">Enter</button>
+		<p id="wrongPassword" style="display: none">wrong password</p>
+</div>
+</div>
+</div>
 </div>
 
 
 
-	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js">
+</script>
 	 
 
-	 <script type="text/javascript" src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script>
 
-	<script type="text/javascript">
+<script type="text/javascript">
 	"use strict";
 	function loadPage(pwd) {
 		
@@ -61,4 +62,4 @@ redirect_from:
 	});
 	$("#password").focus();
 		
-	</script>
+</script>
