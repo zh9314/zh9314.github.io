@@ -7,13 +7,13 @@ author_profile: true
 
 Journals
 ======
-- Xiaofeng Wang, **Huan Zhou**, Jinshu Su, Baosheng Wang, Qianqian Xing, Pengkun Li. T-IP: A Self-Trustworthy and Secure Internet Protocol\[J\], _China Communications_, 2018, Vol. 15 No.2, pp 1-14.
+- Xiaofeng Wang, **Huan Zhou**, Jinshu Su, Baosheng Wang, Qianqian Xing, Pengkun Li. T-IP: A Self-Trustworthy and Secure Internet Protocol\[J\]. _China Communications_, 2018, Vol. 15 No.2, pp 1-14.
 
 - Junchao Wang, Arie Taal, Paul Martin, Yang Hu, **Huan Zhou**, Jianmin Pang, Cees de Laat, Zhiming Zhao. Planning virtual infrastructures for time critical applications with multiple deadline constraints\[J\]. _Future Generation Computer Systems_.  2017, Vol. 75, pp 365-375.
 
 - **Huan Zhou**, Xiaofeng Wang, Jinshu Su. An Efficient Identity Based Key Agreement Protocol in a Multiple PKG Environment\[J\]. _Wuhan University Journal of Natural Sciences_. 2014, Vol.19 No.5, pp 455-460.
 
-- Xiaofeng Wang, Peixin Chen, **Huan Zhou**, Jinshu Su. T-HIBE: A Trustworthy and Secure Hierarchical Identity-Based Encryption System\[J\], _Acta Electronica Sinica_. 2016, Vol.44 No. 7, pp 1521-1529. (in Chinese)
+- Xiaofeng Wang, Peixin Chen, **Huan Zhou**, Jinshu Su. T-HIBE: A Trustworthy and Secure Hierarchical Identity-Based Encryption System\[J\]. _Acta Electronica Sinica_. 2016, Vol.44 No. 7, pp 1521-1529. (in Chinese)
 
 - Xue Ouyang, **Huan Zhou**, et al. Design and implementation of a software life cycle oriented authorization and protection system\[J\]. _The Journal of Computer Engineering and Science_. 2013, 35(4):59-64. (in Chinese)
 
