@@ -47,8 +47,10 @@ Magazines
 Posters
 ======
 - **Huan Zhou**, Paul Martin, Cees de Laat. CloudsStorm: An Application-driven DevOps Framework for Managing Networked Infrastructures on Federated Clouds\[C\]. _The Conference for ICT-Research in the Netherlands (ICT Open 18)_. Mar 2018, Amersfoort, the Netherlands.
+	- [\[pdf\]](http://zh9314.github.io/files/publications/posters/ictopen18.pdf)
 
 - **Huan Zhou**, Paul Martin, Cees de Laat. A network transparent solution for flexibly provisioning connected virtual infrastructure across multiple data centers\[C\]. _Cloud Forward_. Oct 2016, Madrid, Spain. (It is also presented at ICT Open 2017 in Amersfoort, the Netherlands)
+	- [\[pdf\]](http://zh9314.github.io/files/publications/posters/ictopen17.pdf)
 
 - Xiaofeng Wang, **Huan Zhou**, Jinshu Su, et al. T-IP: A Self-Trustworthy and Secure Internet Protocol with Full Compliance to TCP/IP\[C\]. _21st ACM Conference on Computer and Communications Security (CCS)_. Nov 2014, Scottsdale, USA.
 
