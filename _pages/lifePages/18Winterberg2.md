@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "点滴"
+title: "SKI 2018"
 permalink: /life/6358d68546bb12f45a08b31abceb1a57c3e46cee/winterberg2
 author_profile: true
 ---
 
-Yes!
+这是今年的第二次滑雪之旅。温特贝格是德国西部的一个小镇，安宁而美丽。
 
-1. [2018年第二次德国温特贝格滑雪之行]
+这是刚出火车站时拍的小镇。
+
+![test](/images/lifeBlog/winterberg2/1.jpeg)
+
