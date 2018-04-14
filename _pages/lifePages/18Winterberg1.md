@@ -55,7 +55,7 @@ author_profile: true
 
 ![test](/images/lifeBlog/2018winterberg1/dinner2.jpg)
 
-大家都吃得挺开心，开心地分享着白天得滑雪体验。
+大家都吃得挺开心，分享着白天的滑雪体验。
 
 ![test](/images/lifeBlog/2018winterberg1/dinnerPic2.jpg)
 
