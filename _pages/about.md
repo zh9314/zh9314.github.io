@@ -32,8 +32,6 @@ Research Interests
 	* Secure network transmission
 	* Identity-based encryption
 
-
-
 Technical Skills
 ======
 * Programming Skills
@@ -51,6 +49,10 @@ Technical Skills
 	* ...
 * Data processing
 	* Hadoop
+	* ...
+* Blockchain techniques 
+	* Ethereum related
+	* Smart contract programming with Solidity
 	* ...
 * Web crawler
 * Happy to learn
