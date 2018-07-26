@@ -20,6 +20,13 @@ Journals
 
 Conferences
 ======
+
+- **Huan Zhou**, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao. CloudsStorm: An Application-driven Framework to Enhance the Programmability and Controllability of Cloud Virtual Infrastructures\[C\]. _IEEE International conference on Cloud_. July 2-7 2018, San Francisco, USA.
+
+- **Huan Zhou**, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao. Empowering Dynamic Task-based Applications with Agile Virtual Infrastructure Programmability\[C\]. _International conference on Cloud_, June 25-30 2018, Seattle, USA. 
+
+- Yang Hu, **Huan Zhou**, Cees de Laat, Zhiming Zhao. ECSched: Efficient Container Scheduling on Heterogeneous Clusters\[C\]. _24th International European Conference on Parallel and Distributed Computing (Euro-Par)_. Aug 2018, Turin, Italy.
+
 - **Huan Zhou**, Cees de Laat, Zhiming Zhao. Cloudsstorm: An Application-driven Devops Framework for Managing Networked Infrastructures on Federated Clouds\[C\]. _The 3rd International workshop on Interoperable infrastructures for interdisciplinary big data sciences (IT4RIs 18)_. Jan 2018, Amsterdam, the Netherlands.
 
 - Xue Ouyang, **Huan Zhou**, Stephen Clement, Paul Townend, Jie Xu. Mitigate Data Skew Caused Stragglers through ImKP Partition in MapReduce\[C\]. _IEEE International Performance, Computing and Communications Conference (IPCCC 17)_. Dec 2017, San Diego, California, USA.
