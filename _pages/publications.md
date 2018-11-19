@@ -25,9 +25,9 @@ Conferences
 
 - **Huan Zhou**, Spiros Koulouzis, Yang Hu, Junchao Wang, Alexandre Ulisses, Cees de Laat and Zhiming Zhao. Migrating live streaming applications onto clouds: challenges and a CloudStorm solution\[C\]. 1st Workshop on Cloud-Native Applications Design and Experience, _11th IEEE/ACM conference on Utility and Cloud Computing_, 2018, Zurich Switzerland [to appear].
 
-- **Huan Zhou**, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao. CloudsStorm: An Application-driven Framework to Enhance the Programmability and Controllability of Cloud Virtual Infrastructures\[C\]. _IEEE International conference on Cloud_. July 2-7 2018, San Francisco, USA.
+- **Huan Zhou**, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao. CloudsStorm: An Application-driven Framework to Enhance the Programmability and Controllability of Cloud Virtual Infrastructures\[C\]. _International conference on Cloud_, June 25-30 2018, Seattle, USA.
 
-- **Huan Zhou**, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao. Empowering Dynamic Task-based Applications with Agile Virtual Infrastructure Programmability\[C\]. _International conference on Cloud_, June 25-30 2018, Seattle, USA. 
+- **Huan Zhou**, Yang Hu, Jinshu Su, Cees de Laat, Zhiming Zhao. Empowering Dynamic Task-based Applications with Agile Virtual Infrastructure Programmability\[C\]. _IEEE International conference on Cloud_. July 2-7 2018, San Francisco, USA. 
 
 - Yang Hu, **Huan Zhou**, Cees de Laat, Zhiming Zhao. ECSched: Efficient Container Scheduling on Heterogeneous Clusters\[C\]. _24th International European Conference on Parallel and Distributed Computing (Euro-Par)_. Aug 2018, Turin, Italy.
 
