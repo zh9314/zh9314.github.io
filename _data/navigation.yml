@@ -7,8 +7,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Experiences"
-    url: /experiences/
+  #- title: "Experiences"
+    #url: /experiences/
 
   #- title: "Talks"
     #url: /talks/    
@@ -22,6 +22,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blogs (点滴)"
-    url: /life/
+  - title: "Blogs"
+    url: /blogs/
     
