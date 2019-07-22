@@ -20,7 +20,7 @@ Journals
 
 Conferences
 ======
-- **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and [Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](https://www.researchgate.net/publication/333848141_A_Blockchain_based_Witness_Model_for_Trustworthy_Cloud_Service_Level_Agreement_Enforcement)" In _IEEE Conference on Computer Communications_(INFOCOM), pp. 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**]
+- **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "<p>[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf)</p>" In _IEEE Conference on Computer Communications_(INFOCOM), pp. 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**]
 
 - **Huan Zhou**, Spiros Koulouzis, Yang Hu, Junchao Wang, Alexandre Ulisses, Cees de Laat and Zhiming Zhao. Migrating live streaming applications onto clouds: challenges and a CloudStorm solution\[C\]. 1st Workshop on Cloud-Native Applications Design and Experience, _11th IEEE/ACM conference on Utility and Cloud Computing_, 2018, Zurich Switzerland.
 
