@@ -20,11 +20,10 @@ Journals
 
 Conferences
 ======
-- **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.][1]" In _IEEE Conference on Computer Communications_(INFOCOM), pp. 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**]
+- **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf)" In _IEEE Conference on Computer Communications_(INFOCOM), pp. 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**]
 
-[1]: http://zh9314.github.io/files/publications/preprints/infocom2019.pdf
 
-- **Huan Zhou**, Spiros Koulouzis, Yang Hu, Junchao Wang, Alexandre Ulisses, Cees de Laat and Zhiming Zhao. Migrating live streaming applications onto clouds: challenges and a CloudStorm solution\[C\]. 1st Workshop on Cloud-Native Applications Design and Experience, _11th IEEE/ACM conference on Utility and Cloud Computing_, 2018, Zurich Switzerland.
+- **Huan Zhou**, Spiros Koulouzis, Yang Hu, Junchao Wang, Alexandre Ulisses, Cees de Laat, and Zhiming Zhao. Migrating live streaming applications onto clouds: challenges and a CloudStorm solution\[C\]. 1st Workshop on Cloud-Native Applications Design and Experience, _11th IEEE/ACM conference on Utility and Cloud Computing_, 2018, Zurich Switzerland.
 
 - **Huan Zhou**, Cees de Laat, and Zhiming Zhao. Trustworthy Cloud Service Level Agreement Enforcement with Blockchain based Smart Contract\[C\]. International workshop on resource brokering with blockchain (RBChain), in the context of _IEEE CloudCom 2018_, Cyprus.
 
