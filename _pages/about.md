@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-Currently, I am a PhD student at [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute, University of Amsterdam. My promoter is [Prof. Cees de Laat](http://delaat.net/) and my supervisor is [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). I am funded by China Scholarship Council (CSC). My current research focus is cloud computing and network communications. I am specifically working on smart provisioning and dynamic control for Cloud applications on their virtual infrastructure resources.  
+Currently, I am a PhD student at [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute, University of Amsterdam. My promoter is [Prof. Cees de Laat](http://delaat.net/) and my supervisor is [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). I am funded by China Scholarship Council (CSC). My research focuses on cloud computing and network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as blockchain enhanced Cloud service management.  
 <br>
 
 Education
@@ -22,12 +22,14 @@ Education
 Research Interests
 ======
 * Cloud/Fog Computing
-	* Provisioning, deployment and runtime control
+	* Virtual infrastructure programming, provisioning, and runtime control
 	* DevOps (development and operation) for Cloud applications
 	* Big data processing/IoT applications on Clouds
 	* Cloud Service Level Agreement with Bolckchain
-* Artificial Intelligence
-	* Deep learning and distributed neural network
+* Blockchain and Distributed Systems
+	* Permissioned Blockchain and Permissionless Blockchain
+	* Smart contract programming
+	* Consensus algorithms
 * Network Communications
 	* Secure network transmission
 	* Identity-based encryption
@@ -47,12 +49,14 @@ Technical Skills
 	* Netfilter
 	* File systems: FAT32, NTFS
 	* ...
-* Data processing
+* Big Data processing
 	* Hadoop
+	* Spark
 	* ...
 * Blockchain techniques 
 	* Ethereum related
 	* Smart contract programming with Solidity
+	* Hyperledger Sawtooth
 	* ...
 * Web crawler
 * Happy to learn
