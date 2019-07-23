@@ -17,7 +17,7 @@ Journals
 
 - Xiaofeng Wang, Peixin Chen, **Huan Zhou**, and Jinshu Su. "T-HIBE: A Trustworthy and Secure Hierarchical Identity-Based Encryption System." _Acta Electronica Sinica_. Vol. 44, No. 7, pp: 1521-1529. 2016. [in Chinese, 一种可信安全的层次式基于身份加密系统]
 
-- Xue Ouyang, **Huan Zhou**, et al. "Design and implementation of a software life cycle oriented authorization and protection system." _The Journal of Computer Engineering and Science_. Vol. 35, No. 4, pp: 59-64. 2013. [in Chinese, 一种面向软件生命周期的授权保护系统设计与实现]
+- Xue Ouyang, **Huan Zhou**, Jinzhou Deng, and Jiangchun Ren. "Design and implementation of a software life cycle oriented authorization and protection system." _The Journal of Computer Engineering and Science_. Vol. 35, No. 4, pp: 59-64. 2013. [in Chinese, 一种面向软件生命周期的授权保护系统设计与实现]
 
 
 Conferences
