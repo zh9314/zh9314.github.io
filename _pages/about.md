@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-Currently, I am a PhD student at [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute, University of Amsterdam. My promoter is [Prof. Cees de Laat](http://delaat.net/) and my supervisor is [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). I am funded by China Scholarship Council (CSC). My research focuses on cloud computing and network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as blockchain enhanced Cloud service management.  
+Currently, I am a PhD student at [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute, University of Amsterdam. My promoter is [Prof. Cees de Laat](http://delaat.net/) and my supervisor is [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). I am funded by China Scholarship Council (CSC). My research focuses on cloud computing and network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as blockchain enhanced Cloud/Fog/Edge service management.  
 <br>
 
 Education
