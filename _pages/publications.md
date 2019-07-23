@@ -36,19 +36,22 @@ Conferences
 
 - Yang Hu, **Huan Zhou**, Cees de Laat, Zhiming Zhao. "ECSched: Efficient Container Scheduling on Heterogeneous Clusters." _24th International European Conference on Parallel and Distributed Computing_ (Euro-Par). pp: 365-377. Springer, Aug. 27-31, 2018, Turin. [**CCF C**]
 
-- Xue Ouyang, **Huan Zhou**, Stephen Clement, Paul Townend, Jie Xu. "Mitigate Data Skew Caused Stragglers through ImKP Partition in MapReduce." _IEEE International Performance, Computing and Communications Conference_ (IPCCC). pp: 1-8. IEEE, Dec. 10-12, 2017, San Diego.
+- Xue Ouyang, **Huan Zhou**, Stephen Clement, Paul Townend, Jie Xu. "Mitigate Data Skew Caused Stragglers through ImKP Partition in MapReduce." _IEEE International Performance, Computing and Communications Conference_ (IPCCC). pp: 1-8. IEEE, Dec. 10-12, 2017, San Diego. [**CCF C**]
 
-- **Huan Zhou**, Junchao Wang, Yang Hu, Jinshu Su, Paul Martin, Cees de Laat, and Zhiming Zhao. "Fast Resource Co-provisioning for Time Critical Applications Based on Networked Infrastructures." _IEEE 9th International Conference on Cloud Computing_ (CLOUD). pp: 802-805. IEEE, Jun. 27 - Jul. 2, 2016, San Francisco.
-
-- **Huan Zhou**, Yang Hu, Junchao Wang, Paul Martin, Cees De Laat, and Zhiming Zhao. "Fast and Dynamic Resource Provisioning for Quality Critical Cloud Applications." _IEEE 19th International Symposium on Real-Time Distributed Computing_ (ISORC). pp: 92-99. IEEE, May 17-20, 2016, York.
+- Yang Hu, Junchao Wang, **Huan Zhou**, Paul Martin, Arie Taal, Cees de Laat, and Zhiming Zhao. "Deadline-aware Deployment for Time Critical Applications in Clouds." _23rd International European Conference on Parallel and Distributed Computing_ (Euro-Par). pp: 345-357. IEEE, Aug. 30 - Sep. 1, 2017, Santiago de Compostela. [**CCF C**]
 
 - **Huan Zhou**, Paul Martin, Jinshu Su, and Cees de Laat. "A Flexible Inter-locale Virtual Cloud For Nearly Real-time Big Data Application." _Interoperable infrastructures for interdisciplinary big data sciences workshop_ (IT4RIs), _IEEE Real Time System Symposium_ (RTSS). IEEE, Nov. 29 - Dec. 2, 2016, Porto.
 
-- Yang Hu, Junchao Wang, **Huan Zhou**, Paul Martin, Arie Taal, Cees de Laat, and Zhiming Zhao. "Deadline-aware Deployment for Time Critical Applications in Clouds." _23rd International European Conference on Parallel and Distributed Computing_ (Euro-Par). pp: 345-357. IEEE, Aug. 30 - Sep. 1, 2017, Santiago de Compostela.
+- **Huan Zhou**, Junchao Wang, Yang Hu, Jinshu Su, Paul Martin, Cees de Laat, and Zhiming Zhao. "Fast Resource Co-provisioning for Time Critical Applications Based on Networked Infrastructures." _IEEE 9th International Conference on Cloud Computing_ (CLOUD). pp: 802-805. IEEE, Jun. 27 - Jul. 2, 2016, San Francisco. [**CCF C**]
+
+- **Huan Zhou**, Yang Hu, Junchao Wang, Paul Martin, Cees De Laat, and Zhiming Zhao. "Fast and Dynamic Resource Provisioning for Quality Critical Cloud Applications." _IEEE 19th International Symposium on Real-Time Distributed Computing_ (ISORC). pp: 92-99. IEEE, May 17-20, 2016, York.
+
+
+- **Huan Zhou**, and Jiangchun Ren. "A Secure Virtual Data Center based on Data Labeled Cloud-agent." _5th IEEE International Conference on Software Engineering and Service Science_ (ICSESS). pp: 937-940. IEEE, Jun. 27-29, 2014, Beijing.
 
 - **Huan Zhou**, Xiaofeng Wang, and Jinshu Su. "A General Self-Adaptive Reputation System Based on the Kalman Feedback." _6th International Conference on Service Science_ (ICSS). pp: 7-12. IEEE, Apr. 11-13, 2013, Shenzhen.
 
-- **Huan Zhou**, and Jiangchun Ren. "A Secure Virtual Data Center based on Data Labeled Cloud-agent." _5th IEEE International Conference on Software Engineering and Service Science_ (ICSESS). pp: 937-940. IEEE, Jun. 27-29, 2014, Beijing.
+
 
 Book Chapters
 ======
