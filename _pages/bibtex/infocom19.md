@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <dl>
+<pre>
 @inproceedings{zhou2019blockchain,
   title={A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement},
   author={Zhou, Huan and Ouyang, Xue and Ren, Zhijie and Su, Jinshu and de Laat, Cees and Zhao, Zhiming},
@@ -14,5 +15,6 @@ author_profile: true
   year={2019},
   organization={IEEE}
 }
-<dl>
+</pre>
+</dl>
 
