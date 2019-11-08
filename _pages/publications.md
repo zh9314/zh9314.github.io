@@ -7,7 +7,9 @@ author_profile: true
 
 Journals
 ======
-- **Huan Zhou**, Yang Hu, Xue Ouyang, Jinshu Su, Spiros Koulouzis, Cees de Laat, and Zhiming Zhao. "CloudsStorm: A Framework for Seamlessly Programming and Controlling Virtual Infrastructure Functions during the DevOps Lifecycle of Cloud Applications." _Software: Practice and Experience_. Wiley, 2019. [to appear, **CCF B**]
+- **Huan Zhou**, Yang Hu, Xue Ouyang, Jinshu Su, Spiros Koulouzis, Cees de Laat, and Zhiming Zhao. "[CloudsStorm: A Framework for Seamlessly Programming and Controlling Virtual Infrastructure Functions during the DevOps Lifecycle of Cloud Applications.](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2741)" _Software: Practice and Experience_. Wiley, 2019. [**CCF B**]
+
+- **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[Enforcing Trustworthy Cloud SLA with Witnesses: A Game Theory based Model using Smart Contracts.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5511)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**]
 
 - Xiaofeng Wang, **Huan Zhou**, Jinshu Su, Baosheng Wang, Qianqian Xing, and Pengkun Li. "T-IP: A Self-Trustworthy and Secure Internet Protocol." _China Communications_. Vol. 15, No. 2, pp: 1-14. IEEE, 2018.
 
@@ -79,7 +81,12 @@ Posters
 
 Thesis
 ======
-- Huan Zhou. "[Research and Implementation on Self-trustworthy and Lightweight Network Transport Mechanism.](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201701&filename=1016921733.nh&v=MTY0NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZZT2RtRkNyaFY3dk5WRjI2R0xxNkg5YlBySkViUElSOGVYMUw=)" Nov 2014, Changsha, China. [in Chinese, 轻量级的网络自信任传输机制研究与实现]
+
+- PhD thesis. "[Seamless Infrastructure Programming and Control for Quality-critical Cloud Applications.](http://hdl.handle.net/11245.1/a43b5a0b-959b-4260-92ef-4a2c3916e20c)" Oct. 2019, Amsterdam, the Netherlands. 
+
+
+- Master thesis. "[Research and Implementation on Self-trustworthy and Lightweight Network Transport Mechanism.](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201701&filename=1016921733.nh&v=MTY0NjR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZZT2RtRkNyaFY3dk5WRjI2R0xxNkg5YlBySkViUElSOGVYMUw=)" Nov. 2014, Changsha, China. [in Chinese, 轻量级的网络自信任传输机制研究与实现]
+
 
 
 
