@@ -9,13 +9,19 @@ redirect_from:
 ---
 
 <br>
-Currently, I am a PhD student at [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute, University of Amsterdam. My promoter is [Prof. Cees de Laat](http://delaat.net/) and my supervisor is [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/). I am funded by China Scholarship Council (CSC). My research focuses on cloud computing and network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as blockchain enhanced Cloud/Fog/Edge service management.  
+My research focuses on cloud computing and network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as blockchain enhanced Cloud/Fog/Edge service management and secure network communications.  
 <br>
 
 Education
 ======
-* Ph.D in Computer Science, University of Amsterdam, 2015 - 2019 (expected)
+* Ph.D in Computer Science, University of Amsterdam, Oct. 2015 - Oct. 2019
+	* Graduated from [System and Network Engineering Lab](https://ivi.fnwi.uva.nl/sne/), Informatics Institute
+	* Promoter: [Prof. Cees de Laat](http://delaat.net/)
+	* Supervisor: [Dr. Zhiming Zhao](https://staff.fnwi.uva.nl/z.zhao/)
+	* Funded by China Scholarship Council (CSC)
 * M.S. in Computer Science, National University of Defense Technology, 2012 - 2014
+	* Supervisor: [Prof. Jinshu Su](https://www.researchgate.net/profile/Jinshu_Su)
+	* Co-supervisor: [Dr. Xiaofeng Wang](https://sites.google.com/site/xfwangnudt/)
 * B.S. in Network Engineering, National University of Defense Technology, 2008 - 2012
 
 

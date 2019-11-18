@@ -9,7 +9,11 @@ Journals
 ======
 - **Huan Zhou**, Yang Hu, Xue Ouyang, Jinshu Su, Spiros Koulouzis, Cees de Laat, and Zhiming Zhao. "[CloudsStorm: A Framework for Seamlessly Programming and Controlling Virtual Infrastructure Functions during the DevOps Lifecycle of Cloud Applications.](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2741)" _Software: Practice and Experience_. Wiley, 2019. [**CCF B**]
 
-- **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[Enforcing Trustworthy Cloud SLA with Witnesses: A Game Theory based Model using Smart Contracts.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5511)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**]
+- **Huan Zhou**, Xue Ouyang, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[Enforcing Trustworthy Cloud SLA with Witnesses: A Game Theory based Model using Smart Contracts.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5511)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**]
+
+- Spiros Koulouzis, Paul Martin, **Huan Zhou**, Yang Hu, Junchao Wang, Thierry Carval, Baptiste Grenier, Jani Heikkinen, Cees de Laat, and Zhiming Zhao. "[Time‐critical data management in clouds: Challenges and a Dynamic Real‐Time Infrastructure Planner (DRIP) solution.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5269)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**; co-first author]
+
+- Yang Hu, **Huan Zhou**, Cees de Laat, and Zhiming Zhao. "Concurrent container scheduling on heterogeneous clusters with multi-resource constraints." _Future Generation Computer Systems_. 102 pp: 562-573. Elsevier, 2019.
 
 - Xiaofeng Wang, **Huan Zhou**, Jinshu Su, Baosheng Wang, Qianqian Xing, and Pengkun Li. "T-IP: A Self-Trustworthy and Secure Internet Protocol." _China Communications_. Vol. 15, No. 2, pp: 1-14. IEEE, 2018.
 
@@ -29,6 +33,7 @@ Conferences
 - **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf)" In _IEEE Conference on Computer Communications_(INFOCOM). pp: 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**, best in session presentation]
 	- [\[preprint\]](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf) [\[slides\]](http://zh9314.github.io/files/slides/INFOCOMSlides.pdf) [\[cert\]](http://zh9314.github.io/files/certificates/info_Best_In_session_Presentation_Certificate.pdf) [\[code\]](https://github.com/zh9314/SmartContract4SLA/blob/master/SmartContracts4SLA.sol) [\[bibtex\]](http://zh9314.github.io/bibtex/infocom19) 
 
+- **Huan Zhou**, Zeshun Shi, Yang Hu, Pieter Donkers, Andrey Afanasyev, Spiros Koulouzis, Arie Taal, Alexandre Ulisses, and Zhiming Zhao. "Large distributed virtual infrastructure partitioning and provisioning across providers." _IEEE International Conference on Smart Internet of Things_ (SmartIoT). IEEE, 2019. [Best student paper candidate]
 
 - **Huan Zhou**, Spiros Koulouzis, Yang Hu, Junchao Wang, Alexandre Ulisses, Cees de Laat, and Zhiming Zhao. "Migrating live streaming applications onto clouds: challenges and a CloudStorm solution." _Workshop on Cloud-Native Applications Design and Experience_ (CNAX), _11th IEEE/ACM conference on Utility and Cloud Computing_ (UCC Companion). pp: 321-326. IEEE, Dec. 17-20, 2018, Zurich.
 
