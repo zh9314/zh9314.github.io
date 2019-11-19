@@ -69,7 +69,8 @@ Technical Skills
 
 Contact
 ======
-:email: Email: h.zhou@uva.nl
+:email: Email: h.zhou@uva.nl <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; huanzhou@nudt.edu.cn
 
 :office: Office:
 <address>
