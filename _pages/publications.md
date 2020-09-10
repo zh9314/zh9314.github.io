@@ -9,6 +9,8 @@ Journals
 ======
 - **Huan Zhou**, Yang Hu, Xue Ouyang, Jinshu Su, Spiros Koulouzis, Cees de Laat, and Zhiming Zhao. "[CloudsStorm: A Framework for Seamlessly Programming and Controlling Virtual Infrastructure Functions during the DevOps Lifecycle of Cloud Applications.](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2741)" _Software: Practice and Experience_. Wiley, 2019. [**CCF B**]
 
+- Rafael Brundo Uriarte, **Huan Zhou**, Kyriakos Kritikos, Zeshun Shi, Zhiming Zhao, and Rocco De Nicola. "Distributed service‐level agreement management with smart contracts and blockchain." _Concurrency and Computation: Practice and Experience_. Wiley, 2020(e5800). [**CCF C**]
+
 - **Huan Zhou**, Xue Ouyang, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[Enforcing Trustworthy Cloud SLA with Witnesses: A Game Theory based Model using Smart Contracts.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5511)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**]
 
 - Spiros Koulouzis, Paul Martin, **Huan Zhou**, Yang Hu, Junchao Wang, Thierry Carval, Baptiste Grenier, Jani Heikkinen, Cees de Laat, and Zhiming Zhao. "[Time‐critical data management in clouds: Challenges and a Dynamic Real‐Time Infrastructure Planner (DRIP) solution.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5269)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**; co-first author]
@@ -28,10 +30,13 @@ Journals
 
 Conferences
 ======
-- Zeshun Shi, **Huan Zhou**, Yang Hu, Jayachander Surbiryala, Cees de Laat, and Zhiming Zhao. "Operating Permissioned Blockchain in Clouds: A Performance Study of Hyperledger Sawtooth.", In _18th IEEE International Symposium On Parallel And Distributed Computing_ (ISPDC). IEEE, Jun. 5-7, 2019, Amsterdam.
 
 - **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf)" In _IEEE Conference on Computer Communications_(INFOCOM). pp: 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**, best in session presentation]
 	- [\[preprint\]](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf) [\[slides\]](http://zh9314.github.io/files/slides/INFOCOMSlides.pdf) [\[cert\]](http://zh9314.github.io/files/certificates/info_Best_In_session_Presentation_Certificate.pdf) [\[code\]](https://github.com/zh9314/SmartContract4SLA/blob/master/SmartContracts4SLA.sol) [\[bibtex\]](http://zh9314.github.io/bibtex/infocom19) 
+
+- Zeshun Shi, **Huan Zhou**, Yang Hu, Jayachander Surbiryala, Cees de Laat, and Zhiming Zhao. "Operating Permissioned Blockchain in Clouds: A Performance Study of Hyperledger Sawtooth.", In _18th IEEE International Symposium On Parallel And Distributed Computing_ (ISPDC). IEEE, Jun. 5-7, 2019, Amsterdam.
+
+- **Huan Zhou**, Xue Ouyang, and Zhiming Zhao. "ALLSTAR: a blockchain based decentralized ecosystem for cloud and edge computing." _IEEE International Conference on Joint Cloud Computing_ (JCC). IEEE, 2020.
 
 - **Huan Zhou**, Zeshun Shi, Yang Hu, Pieter Donkers, Andrey Afanasyev, Spiros Koulouzis, Arie Taal, Alexandre Ulisses, and Zhiming Zhao. "Large distributed virtual infrastructure partitioning and provisioning across providers." _IEEE International Conference on Smart Internet of Things_ (SmartIoT). IEEE, 2019. [Best student paper candidate]
 
