@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "周寰 / About Me"
 title_separator          : "-"
 name                     : &name "Huan Zhou"
-description              : &description "Doctor of Computer Science<br />National University of Defense Technology"
+description              : &description "Doctor of Computer Science<br/>National University of Defense Technology"
 url                      : https://zh9314.github.io 
 baseurl                  : "" 
 repository               : "zh9314/zh9314.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Huan Zhou"
   avatar           : "profile.JPG"
-  bio              : "Doctor of CS<br />University of Amsterdam"
+  bio              : "Doctor of Computer Science<br/>National University of Defense Technology"
   location         : "Changsha<br>China"
   employer         :
   googlescholar    : "https://scholar.google.nl/citations?user=MPCBlq4AAAAJ&hl=en"
