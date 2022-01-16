@@ -7,6 +7,10 @@ author_profile: true
 
 Journals
 ======
+- Yingwen Chen, Linghang Meng, **Huan Zhou**, Guangtao Xue. "[A Blockchain-Based Medical Data Sharing Mechanism with Attribute-Based Access Control and Privacy Protection.](https://www.hindawi.com/journals/wcmc/2021/6685762/)" _Wireless Communications and Mobile Computing_. Hindawi, 2021. (corresponding author) [**CCF C**]
+
+- **Huan Zhou**, Zeshun Shi, Xue Ouyang, Zhiming Zhao. "[Building a blockchain-based decentralized ecosystem for cloud and edge computing: an ALLSTAR approach and empirical study.](https://link.springer.com/article/10.1007/s12083-021-01198-z)" _Peer-to-Peer Networking and Applications_. Springer, 2021. [**CCF C**]
+
 - **Huan Zhou**, Yang Hu, Xue Ouyang, Jinshu Su, Spiros Koulouzis, Cees de Laat, and Zhiming Zhao. "[CloudsStorm: A Framework for Seamlessly Programming and Controlling Virtual Infrastructure Functions during the DevOps Lifecycle of Cloud Applications.](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2741)" _Software: Practice and Experience_. Wiley, 2019. [**CCF B**]
 
 - Rafael Brundo Uriarte, **Huan Zhou**, Kyriakos Kritikos, Zeshun Shi, Zhiming Zhao, and Rocco De Nicola. "Distributed service‐level agreement management with smart contracts and blockchain." _Concurrency and Computation: Practice and Experience_. Wiley, 2020(e5800). [**CCF C**]
@@ -31,10 +35,15 @@ Journals
 Conferences
 ======
 
+
+- Huajian Wang, **Huan Zhou**, Guogui Yang, Tao Xiao. "[DCrowd: A Decentralized Service Model for Credible Crowdsourcing Based on Game Theory and Smart Contracts.](https://ieeexplore.ieee.org/abstract/document/9592377)" _International Conference on Services Computing (SCC)_. IEEE, 2021. [**CCF C**]
+
 - **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf)" In _IEEE Conference on Computer Communications_(INFOCOM). pp: 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**, best in session presentation]
 	- [\[preprint\]](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf) [\[slides\]](http://zh9314.github.io/files/slides/INFOCOMSlides.pdf) [\[cert\]](http://zh9314.github.io/files/certificates/info_Best_In_session_Presentation_Certificate.pdf) [\[code\]](https://github.com/zh9314/SmartContract4SLA/blob/master/SmartContracts4SLA.sol) [\[bibtex\]](http://zh9314.github.io/bibtex/infocom19) 
 
 - Zeshun Shi, **Huan Zhou**, Yang Hu, Jayachander Surbiryala, Cees de Laat, and Zhiming Zhao. "Operating Permissioned Blockchain in Clouds: A Performance Study of Hyperledger Sawtooth.", In _18th IEEE International Symposium On Parallel And Distributed Computing_ (ISPDC). IEEE, Jun. 5-7, 2019, Amsterdam.
+
+- Zeshun Shi, Siamak Farshidi, **Huan Zhou**, Zhiming Zhao. "[An Auction and Witness Enhanced Trustworthy SLA Model for Decentralized Cloud Marketplaces.](https://dl.acm.org/doi/abs/10.1145/3462203.3475876)" _Conference on Information Technology for Social Good (GoodIT)_. ACM, 2021. [**CCF C**]
 
 - **Huan Zhou**, Xue Ouyang, and Zhiming Zhao. "ALLSTAR: a blockchain based decentralized ecosystem for cloud and edge computing." _IEEE International Conference on Joint Cloud Computing_ (JCC). IEEE, 2020.
 

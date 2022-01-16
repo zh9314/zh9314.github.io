@@ -9,8 +9,14 @@ redirect_from:
 ---
 
 <br>
-My research focuses on cloud computing and network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as blockchain enhanced Cloud/Fog/Edge service management and secure network communications.  
+My research focuses on cloud/edge computing, blockchain and secure network communications. To be specific, I am working on Cloud virtual infrastructures seamless programming and control for orchestrating Cloud applications, as well as decentralized applications for Cloud/Fog/Edge service management and crowdsourcing.  
 <br>
+
+Employment
+======
+* Associate Professor, School of Computer, National University of Defense Technology, Jan. 2022 - Now
+* Lecturer, School of Computer, National University of Defense Technology, Dec. 2019 - Dec. 2021	
+
 
 Education
 ======
@@ -39,6 +45,13 @@ Research Interests
 * Network Communications
 	* Secure network transmission
 	* Identity-based encryption
+
+Teaching Courses
+======
+* Computer Networks (计算机网络)
+* Morden Computer Networking (新型网络技术)
+
+
 
 Technical Skills
 ======
@@ -70,7 +83,7 @@ Technical Skills
 Contact
 ======
 :email: Email: huanzhou@nudt.edu.cn <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h.zhou@uva.nl
+
 
 :office: Office:
 <address>
