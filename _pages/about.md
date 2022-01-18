@@ -14,7 +14,7 @@ My research focuses on cloud/edge computing, blockchain and secure network commu
 
 Employment
 ======
-* Associate Professor, School of Computer, National University of Defense Technology, Jan. 2022 - Now
+* Associate Professor, School of Computer, National University of Defense Technology, Dec. 2021 - Now
 * Lecturer, School of Computer, National University of Defense Technology, Dec. 2019 - Dec. 2021	
 
 

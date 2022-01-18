@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-TBD
+[**Download**]((http://zh9314.github.io/files/cv/cv2022.pdf))

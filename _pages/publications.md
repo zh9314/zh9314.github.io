@@ -13,6 +13,10 @@ Journals
 
 - **Huan Zhou**, Yang Hu, Xue Ouyang, Jinshu Su, Spiros Koulouzis, Cees de Laat, and Zhiming Zhao. "[CloudsStorm: A Framework for Seamlessly Programming and Controlling Virtual Infrastructure Functions during the DevOps Lifecycle of Cloud Applications.](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2741)" _Software: Practice and Experience_. Wiley, 2019. [**CCF B**]
 
+- Haiwen Chen, **Huan Zhou**, Jiaping Yu, Kui Wu, Fang Liu, Tongqing Zhou, Zhiping Cai. "[Trusted audit with untrusted auditors: A decentralized data integrity Crowdauditing approach based on blockchain.](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22548)" _International Journal of Intelligent Systems_. Wiley, 2021. 
+
+- Haiwen Chen, Jiaping Yu, **Huan Zhou**, Tongqing Zhou, Fang Liu, Zhiping Cai. "[SmartStore: A blockchain and clustering based intelligent edge storage system with fairness and resilience.](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22509)" _International Journal of Intelligent Systems_. Wiley, 2021. 
+
 - Rafael Brundo Uriarte, **Huan Zhou**, Kyriakos Kritikos, Zeshun Shi, Zhiming Zhao, and Rocco De Nicola. "Distributed service‐level agreement management with smart contracts and blockchain." _Concurrency and Computation: Practice and Experience_. Wiley, 2020(e5800). [**CCF C**]
 
 - **Huan Zhou**, Xue Ouyang, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[Enforcing Trustworthy Cloud SLA with Witnesses: A Game Theory based Model using Smart Contracts.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5511)" _Concurrency and Computation: Practice and Experience_. Wiley, 2019. [**CCF C**]
