@@ -39,11 +39,10 @@ Journals
 Conferences
 ======
 
-
-- Huajian Wang, **Huan Zhou**, Guogui Yang, Tao Xiao. "[DCrowd: A Decentralized Service Model for Credible Crowdsourcing Based on Game Theory and Smart Contracts.](https://ieeexplore.ieee.org/abstract/document/9592377)" _International Conference on Services Computing (SCC)_. IEEE, 2021. [**CCF C**]
-
 - **Huan Zhou**, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat, and Zhiming Zhao. "[A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement.](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf)" In _IEEE Conference on Computer Communications_(INFOCOM). pp: 1567-1575. IEEE, April 29 - May 2, 2019, Paris. [**CCF A**, acceptance rate: **19.67%**, best in session presentation]
 	- [\[preprint\]](http://zh9314.github.io/files/publications/preprints/infocom2019.pdf) [\[slides\]](http://zh9314.github.io/files/slides/INFOCOMSlides.pdf) [\[cert\]](http://zh9314.github.io/files/certificates/info_Best_In_session_Presentation_Certificate.pdf) [\[code\]](https://github.com/zh9314/SmartContract4SLA/blob/master/SmartContracts4SLA.sol) [\[bibtex\]](http://zh9314.github.io/bibtex/infocom19) 
+
+- Huajian Wang, **Huan Zhou**, Guogui Yang, Tao Xiao. "[DCrowd: A Decentralized Service Model for Credible Crowdsourcing Based on Game Theory and Smart Contracts.](https://ieeexplore.ieee.org/abstract/document/9592377)" _International Conference on Services Computing (SCC)_. IEEE, 2021. [**CCF C**]
 
 - Zeshun Shi, **Huan Zhou**, Yang Hu, Jayachander Surbiryala, Cees de Laat, and Zhiming Zhao. "Operating Permissioned Blockchain in Clouds: A Performance Study of Hyperledger Sawtooth.", In _18th IEEE International Symposium On Parallel And Distributed Computing_ (ISPDC). IEEE, Jun. 5-7, 2019, Amsterdam.
 
@@ -72,7 +71,6 @@ Conferences
 - **Huan Zhou**, Junchao Wang, Yang Hu, Jinshu Su, Paul Martin, Cees de Laat, and Zhiming Zhao. "Fast Resource Co-provisioning for Time Critical Applications Based on Networked Infrastructures." _IEEE 9th International Conference on Cloud Computing_ (CLOUD). pp: 802-805. IEEE, Jun. 27 - Jul. 2, 2016, San Francisco. [**CCF C**]
 
 - **Huan Zhou**, Yang Hu, Junchao Wang, Paul Martin, Cees De Laat, and Zhiming Zhao. "Fast and Dynamic Resource Provisioning for Quality Critical Cloud Applications." _IEEE 19th International Symposium on Real-Time Distributed Computing_ (ISORC). pp: 92-99. IEEE, May 17-20, 2016, York.
-
 
 - **Huan Zhou**, and Jiangchun Ren. "A Secure Virtual Data Center based on Data Labeled Cloud-agent." _5th IEEE International Conference on Software Engineering and Service Science_ (ICSESS). pp: 937-940. IEEE, Jun. 27-29, 2014, Beijing.
 
